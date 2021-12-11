@@ -25,7 +25,7 @@ class _CalculatorState extends State<Calculator> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: const Text('Simple Calculatorrrrrr'),
+          title: const Text('Simple Calculator'),
         ),
         body: Padding(
           padding: const EdgeInsets.all(8.0),
